@@ -1,0 +1,164 @@
+Analyzing frontend...                                           
+
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\main.dart:35:11 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\main.dart:72:37 - deprecated_member_use
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\admin\dashboard_screen.dart:9:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\admin\dashboard_screen.dart:11:3 - library_private_types_in_public_api
+   info - Don't use 'BuildContext's across async gaps - lib\screens\admin\dashboard_screen.dart:42:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\admin\dashboard_screen.dart:47:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\admin\dashboard_screen.dart:54:7 - use_build_context_synchronously
+   info - The 'child' argument should be last in widget constructor invocations - lib\screens\admin\dashboard_screen.dart:98:29 - sort_child_properties_last
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\auth\baker_onboarding.dart:10:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\auth\baker_onboarding.dart:12:3 - library_private_types_in_public_api
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\baker_onboarding.dart:54:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\baker_onboarding.dart:57:33 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\baker_onboarding.dart:59:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\baker_onboarding.dart:67:36 - use_build_context_synchronously
+   info - The 'child' argument should be last in widget constructor invocations - lib\screens\auth\baker_onboarding.dart:112:21 - sort_child_properties_last
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\auth\login_screen.dart:12:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\auth\login_screen.dart:14:3 - library_private_types_in_public_api
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\login_screen.dart:34:37 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\login_screen.dart:36:37 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\login_screen.dart:39:35 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\login_screen.dart:41:35 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\login_screen.dart:44:28 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\auth\login_screen.dart:99:49 - deprecated_member_use
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\auth\register_screen.dart:12:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\auth\register_screen.dart:14:3 - library_private_types_in_public_api
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\register_screen.dart:37:46 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\register_screen.dart:41:37 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\register_screen.dart:43:37 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\register_screen.dart:45:37 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\register_screen.dart:48:30 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\register_screen.dart:51:23 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\auth\register_screen.dart:54:28 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\auth\register_screen.dart:105:49 - deprecated_member_use
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\baker\add_product_screen.dart:9:3 - use_key_in_widget_constructors
+   info - Constructors in '@immutable' classes should be declared as 'const' - lib\screens\baker\add_product_screen.dart:9:3 - prefer_const_constructors_in_immutables
+   info - Invalid use of a private type in a public API - lib\screens\baker\add_product_screen.dart:12:3 - library_private_types_in_public_api
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\add_product_screen.dart:70:30 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\add_product_screen.dart:73:30 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\add_product_screen.dart:75:21 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\add_product_screen.dart:77:28 - use_build_context_synchronously
+   info - The 'child' argument should be last in widget constructor invocations - lib\screens\baker\add_product_screen.dart:163:22 - sort_child_properties_last
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\baker\dashboard_screen.dart:11:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\baker\dashboard_screen.dart:13:3 - library_private_types_in_public_api
+   info - The private field _widgetOptions could be 'final' - lib\screens\baker\dashboard_screen.dart:19:23 - prefer_final_fields
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\dashboard_screen.dart:34:31 - use_build_context_synchronously
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\baker\finance_screen.dart:5:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\baker\finance_screen.dart:7:3 - library_private_types_in_public_api
+warning - The value of the field '_expenses' isn't used - lib\screens\baker\finance_screen.dart:12:17 - unused_field
+warning - The exception variable 'e' isn't used, so the 'catch' clause can be removed - lib\screens\baker\finance_screen.dart:36:30 - unused_catch_clause
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\finance_screen.dart:38:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\finance_screen.dart:53:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\finance_screen.dart:55:28 - use_build_context_synchronously
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\baker\orders_screen.dart:5:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\baker\orders_screen.dart:7:3 - library_private_types_in_public_api
+warning - The exception variable 'e' isn't used, so the 'catch' clause can be removed - lib\screens\baker\orders_screen.dart:28:30 - unused_catch_clause
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\orders_screen.dart:30:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\orders_screen.dart:41:28 - use_build_context_synchronously
+warning - The exception variable 'e' isn't used, so the 'catch' clause can be removed - lib\screens\baker\orders_screen.dart:42:30 - unused_catch_clause
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\orders_screen.dart:43:28 - use_build_context_synchronously
+   info - The 'child' argument should be last in widget constructor invocations - lib\screens\baker\orders_screen.dart:101:37 - sort_child_properties_last
+   info - The 'child' argument should be last in widget constructor invocations - lib\screens\baker\orders_screen.dart:106:37 - sort_child_properties_last
+   info - The 'child' argument should be last in widget constructor invocations - lib\screens\baker\orders_screen.dart:113:37 - sort_child_properties_last
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\baker\products_screen.dart:6:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\baker\products_screen.dart:8:3 - library_private_types_in_public_api
+warning - The exception variable 'e' isn't used, so the 'catch' clause can be removed - lib\screens\baker\products_screen.dart:30:30 - unused_catch_clause
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\products_screen.dart:32:28 - use_build_context_synchronously
+   info - Use a 'SizedBox' to add whitespace to a layout - lib\screens\baker\products_screen.dart:50:25 - sized_box_for_whitespace
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\products_screen.dart:100:60 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\baker\products_screen.dart:102:60 - use_build_context_synchronously
+   info - The 'child' argument should be last in widget constructor invocations - lib\screens\baker\products_screen.dart:128:9 - sort_child_properties_last
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\common\profile_screen.dart:5:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\common\profile_screen.dart:7:3 - library_private_types_in_public_api
+warning - The exception variable 'e' isn't used, so the 'catch' clause can be removed - lib\screens\common\profile_screen.dart:28:30 - unused_catch_clause
+   info - Don't use 'BuildContext's across async gaps - lib\screens\common\profile_screen.dart:30:28 - use_build_context_synchronously
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\customer\cart_screen.dart:6:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\customer\cart_screen.dart:8:3 - library_private_types_in_public_api
+   info - Don't invoke 'print' in production code - lib\screens\customer\cart_screen.dart:38:7 - avoid_print
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\cart_screen.dart:40:28 - use_build_context_synchronously
+warning - The exception variable 'e' isn't used, so the 'catch' clause can be removed - lib\screens\customer\cart_screen.dart:48:30 - unused_catch_clause
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\cart_screen.dart:49:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\cart_screen.dart:121:40 - use_build_context_synchronously
+warning - The exception variable 'e' isn't used, so the 'catch' clause can be removed - lib\screens\customer\cart_screen.dart:123:42 - unused_catch_clause
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\cart_screen.dart:125:40 - use_build_context_synchronously
+   info - Parameter 'key' could be a super parameter - lib\screens\customer\checkout_screen.dart:13:9 - use_super_parameters
+   info - Invalid use of a private type in a public API - lib\screens\customer\checkout_screen.dart:22:3 - library_private_types_in_public_api
+warning - The value of the local variable 'customRequestId' isn't used - lib\screens\customer\checkout_screen.dart:165:12 - unused_local_variable
+warning - The value of the local variable 'reqData' isn't used - lib\screens\customer\checkout_screen.dart:167:18 - unused_local_variable
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\checkout_screen.dart:193:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\checkout_screen.dart:194:26 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\checkout_screen.dart:197:28 - use_build_context_synchronously
+   info - The 'child' argument should be last in widget constructor invocations - lib\screens\customer\checkout_screen.dart:257:19 - sort_child_properties_last
+warning - Unused import: '../../services/auth_provider.dart' - lib\screens\customer\home_screen.dart:5:8 - unused_import
+warning - Unused import: 'package:provider/provider.dart' - lib\screens\customer\home_screen.dart:6:8 - unused_import
+warning - Unused import: '../auth/login_screen.dart' - lib\screens\customer\home_screen.dart:7:8 - unused_import
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\customer\home_screen.dart:14:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\customer\home_screen.dart:16:3 - library_private_types_in_public_api
+   info - The private field _widgetOptions could be 'final' - lib\screens\customer\home_screen.dart:21:23 - prefer_final_fields
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\customer\home_screen.dart:71:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\customer\home_screen.dart:73:3 - library_private_types_in_public_api
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\home_screen.dart:120:28 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\customer\home_screen.dart:153:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\customer\home_screen.dart:177:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\customer\home_screen.dart:206:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\customer\home_screen.dart:405:62 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\customer\home_screen.dart:411:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\customer\home_screen.dart:464:57 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\screens\customer\home_screen.dart:486:69 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\customer\home_screen.dart:486:73 - unnecessary_underscores
+   info - Statements in an if should be enclosed in a block - lib\screens\customer\home_screen.dart:532:74 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\customer\home_screen.dart:533:60 - curly_braces_in_flow_control_structures
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\home_screen.dart:538:78 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\home_screen.dart:541:78 - use_build_context_synchronously
+   info - Statements in an if should be enclosed in a block - lib\screens\customer\home_screen.dart:545:76 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\customer\home_screen.dart:546:62 - curly_braces_in_flow_control_structures
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\home_screen.dart:548:76 - use_build_context_synchronously
+  error - Expected to find ';' - lib\screens\customer\home_screen.dart:567:11 - expected_token
+warning - Dead code - lib\screens\customer\home_screen.dart:567:12 - dead_code
+  error - Expected an identifier - lib\screens\customer\home_screen.dart:567:12 - missing_identifier
+  error - Expected to find ';' - lib\screens\customer\home_screen.dart:567:12 - expected_token
+  error - Unexpected text ';' - lib\screens\customer\home_screen.dart:567:12 - unexpected_token
+  error - Expected an identifier - lib\screens\customer\home_screen.dart:568:5 - missing_identifier
+  error - Unexpected text ';' - lib\screens\customer\home_screen.dart:568:5 - unexpected_token
+   info - Unnecessary empty statement - lib\screens\customer\home_screen.dart:568:6 - empty_statements
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\customer\invoice_screen.dart:9:3 - use_key_in_widget_constructors
+   info - Constructors in '@immutable' classes should be declared as 'const' - lib\screens\customer\invoice_screen.dart:9:3 - prefer_const_constructors_in_immutables
+   info - The local variable '_printInvoice' starts with an underscore - lib\screens\customer\invoice_screen.dart:26:18 - no_leading_underscores_for_local_identifiers
+   info - Unnecessary use of 'toList' in a spread - lib\screens\customer\invoice_screen.dart:57:20 - unnecessary_to_list_in_spreads
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\customer\orders_screen.dart:6:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\customer\orders_screen.dart:8:3 - library_private_types_in_public_api
+warning - The exception variable 'e' isn't used, so the 'catch' clause can be removed - lib\screens\customer\orders_screen.dart:29:30 - unused_catch_clause
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\orders_screen.dart:31:28 - use_build_context_synchronously
+   info - Unnecessary use of 'toList' in a spread - lib\screens\customer\orders_screen.dart:89:28 - unnecessary_to_list_in_spreads
+   info - Parameter 'key' could be a super parameter - lib\screens\customer\product_detail_screen.dart:7:9 - use_super_parameters
+   info - Invalid use of a private type in a public API - lib\screens\customer\product_detail_screen.dart:10:3 - library_private_types_in_public_api
+   info - The local variable '_addToCart' starts with an underscore - lib\screens\customer\product_detail_screen.dart:49:10 - no_leading_underscores_for_local_identifiers
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\product_detail_screen.dart:61:30 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\product_detail_screen.dart:63:30 - use_build_context_synchronously
+   info - The local variable '_toggleWishlist' starts with an underscore - lib\screens\customer\product_detail_screen.dart:67:10 - no_leading_underscores_for_local_identifiers
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\customer\product_detail_screen.dart:75:45 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\customer\product_detail_screen.dart:80:45 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\customer\product_detail_screen.dart:85:32 - use_build_context_synchronously
+   info - The local variable '_showRatingDialog' starts with an underscore - lib\screens\customer\product_detail_screen.dart:90:10 - no_leading_underscores_for_local_identifiers
+   info - The local variable '_currentRating' starts with an underscore - lib\screens\customer\product_detail_screen.dart:91:11 - no_leading_underscores_for_local_identifiers
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\product_detail_screen.dart:125:46 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\product_detail_screen.dart:127:46 - use_build_context_synchronously
+   info - The 'child' argument should be last in widget constructor invocations - lib\screens\customer\product_detail_screen.dart:235:25 - sort_child_properties_last
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\customer\wishlist_screen.dart:6:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\customer\wishlist_screen.dart:8:3 - library_private_types_in_public_api
+   info - Don't invoke 'print' in production code - lib\screens\customer\wishlist_screen.dart:34:7 - avoid_print
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\wishlist_screen.dart:36:28 - use_build_context_synchronously
+warning - The exception variable 'e' isn't used, so the 'catch' clause can be removed - lib\screens\customer\wishlist_screen.dart:44:30 - unused_catch_clause
+   info - Don't use 'BuildContext's across async gaps - lib\screens\customer\wishlist_screen.dart:45:28 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding_screen.dart:74:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding_screen.dart:121:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding_screen.dart:147:57 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\widgets\auth_background.dart:6:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\auth_background.dart:32:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\auth_background.dart:33:55 - deprecated_member_use
+warning - The value of the local variable 'whiteAccent' isn't used - lib\widgets\auth_background.dart:35:17 - unused_local_variable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\auth_background.dart:35:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\auth_background.dart:88:27 - deprecated_member_use
+
